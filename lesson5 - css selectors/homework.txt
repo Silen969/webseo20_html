@@ -1,0 +1,10 @@
+CSS свойства к изучению:
+font
+margin
+padding
+border
+border-radius
+
+Задание:
+Дополнить задание сделанное в классе кнопками .success .base .warning
+И доавить возможность указывать размер кнопки используя классы .small .large

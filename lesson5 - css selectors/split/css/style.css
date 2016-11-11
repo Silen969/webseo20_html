@@ -9,3 +9,17 @@
     border-radius: 4px;
     background-color: #fff;
 }
+
+.btn.error {
+    background-color: #f20000;
+    border-color: #d70000;
+    color: #ffffff;
+}
+
+.btn.small {
+
+}
+
+.btn.larger {
+
+}
