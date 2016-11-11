@@ -1,5 +1,9 @@
 /* styles file */
 
-p {
-    color: red;
+.btn {
+    /*border-width: 1px;
+    border-style: solid;
+    border-color: #555;*/
+
+    border: 1px solid #555;
 }
