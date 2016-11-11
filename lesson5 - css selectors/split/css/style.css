@@ -1,9 +1,11 @@
 /* styles file */
 
 .btn {
-    /*border-width: 1px;
+    /*border-width: 1px 2px 3px 4px;
     border-style: solid;
     border-color: #555;*/
 
     border: 1px solid #555;
+    border-radius: 4px;
+    background-color: #fff;
 }
