@@ -3,6 +3,13 @@ pre {
     font-weight: bold;
 }
 
-span {
+pre span {
     color: blue;
+}
+pre > span {
+    text-decoration: line-through;
+}
+
+.underline {
+    text-decoration: underline;
 }
