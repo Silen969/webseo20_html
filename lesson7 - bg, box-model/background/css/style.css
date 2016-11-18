@@ -1,7 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: #cccccc;
 }
 
+.block {
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+}
+
 .block.red {
+    /*background-color: rgba(215, 0, 0, .5);*/
     background-color: #d70000;
+}
+.block.blue {
+    background-color: #5c8ae8;
+}
+
+.block.img {
+    background-image: url(../img/image.jpg);
 }
