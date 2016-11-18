@@ -4,13 +4,18 @@
 }
 
 body {
-    background-color: #cccccc;
+    /*background-image: url(../img/image.jpg);
+    background-attachment: fixed;*/
+
+    background: url(../img/image.jpg) fixed center no-repeat;
 }
 
 .block {
     height: 300px;
     width: 300px;
     margin: 10px;
+
+    cursor: pointer;
 }
 
 .block.red {
@@ -22,5 +27,10 @@ body {
 }
 
 .block.img {
+    border: 1px solid #2f2f2f;
+
     background-image: url(../img/image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
