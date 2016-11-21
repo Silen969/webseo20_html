@@ -1,0 +1,2 @@
+Сверстать макет:
+http://htmlbook.ru/layout/fiksirovannaya-shirina-tri-kolonki
