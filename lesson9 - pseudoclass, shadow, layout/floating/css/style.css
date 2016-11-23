@@ -8,6 +8,8 @@
 .content .item {
     width: 25%;
     float: left;
+
+    margin: 10px;
 }
 .content .item img {
     width: 100%;
