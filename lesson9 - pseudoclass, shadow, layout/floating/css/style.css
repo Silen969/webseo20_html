@@ -6,10 +6,11 @@
 }
 
 .content .item {
+    box-sizing: border-box;
     width: 25%;
     float: left;
 
-    margin: 10px;
+    padding: 10px;
 }
 .content .item img {
     width: 100%;
