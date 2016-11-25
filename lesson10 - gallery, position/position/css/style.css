@@ -19,9 +19,10 @@
 
     background-color: #838383;
 }
-.content .static {
+.content .block {
     width: 200px;
     height: 200px;
-
+}
+.content .block.static {
     background-color: #1e1e1e;
 }
