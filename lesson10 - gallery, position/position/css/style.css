@@ -22,7 +22,18 @@
 .content .block {
     width: 200px;
     height: 200px;
+
+    color: #ffffff;
+    font-family: monospace;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 200px;
 }
 .content .block.static {
     background-color: #1e1e1e;
+}
+.content .block.absolute {
+    background-color: brown;
+    position: absolute;
 }
