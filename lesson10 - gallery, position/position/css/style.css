@@ -7,13 +7,15 @@
     height: 60px;
 
     position: fixed;
+    left: 0;
+    top: 0;
 
     background-color: #5c8ae8;
 }
 .content {
     width: 1000px;
     height: 2000px;
-    margin: 20px auto;
+    margin: 80px auto;
 
     background-color: #838383;
 }
