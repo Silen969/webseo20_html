@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.content {
+    width: 1000px;
+    height: 1000px;
+    margin: 20px auto;
+
+    background-color: #838383;
+}
+.content .static {
+    width: 200px;
+    height: 200px;
+
+    background-color: #1e1e1e;
+}
