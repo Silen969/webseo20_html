@@ -28,7 +28,7 @@
     height: 15px;
     margin: 10px;
 
-    transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out 300ms;
 }
 .block:hover .block-inner {
     margin-left: 200px;
