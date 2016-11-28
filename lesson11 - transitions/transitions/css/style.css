@@ -2,6 +2,9 @@
     width: 300px;
     height: 75px;
     margin: 30px auto;
+    padding: 20px 0;
+
+    box-sizing: border-box;
 
     background-color: #e8a439;
     box-shadow: 0 0 0 0 #ffffff, 0 0 0 6px #000000;
@@ -17,4 +20,18 @@
 
 .block:hover {
     box-shadow: 0 0 0 8px #ffffff, 0 0 0 9px #000000;
+}
+
+.block-inner {
+    background-color: aliceblue;
+    width: 15px;
+    height: 15px;
+    margin: 10px;
+
+    transition: all 500ms ease-in-out;
+}
+.block:hover .block-inner {
+    margin-left: 200px;
+    width: 20px;
+    height: 20px;
 }
