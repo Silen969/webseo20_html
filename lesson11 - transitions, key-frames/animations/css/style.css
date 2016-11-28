@@ -55,3 +55,13 @@ body {
     animation-duration: 4s;
     animation-iteration-count: infinite;
 }
+
+.block.b2 {
+    animation-delay: 1s;
+}
+.block.b3 {
+    animation-delay: 2s;
+}
+.block.b4 {
+    animation-delay: 3s;
+}
