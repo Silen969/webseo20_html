@@ -1,0 +1,17 @@
+.block {
+    width: 100px;
+    height: 100px;
+    margin: 30px auto;
+
+    background-color: #5c8ae8;
+    box-shadow: 0 0 0 0 #1e1e1e;
+
+    cursor: pointer;
+
+    transition-duration: 1300ms;
+}
+
+.block:hover {
+    background-color: brown;
+    box-shadow: 0 0 0 20px #1e1e1e;
+}
