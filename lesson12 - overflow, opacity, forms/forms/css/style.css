@@ -1,0 +1,11 @@
+.content {
+    width: 400px;
+    margin: 20px auto;
+}
+
+input[type=text],
+input[type=password] {
+    font-size: 20px;
+    padding: 6px;
+    margin: 10px;
+}
