@@ -12,8 +12,11 @@
     <h1>Login page</h1>
 
     <form action="/login" method="post">
-        <input type="text" name="username">
-        <input type="password" name="pass">
+        <label for="username">Username:</label>
+        <input type="text" name="username" id="username">
+
+        <label for="pass">Password:</label>
+        <input type="password" name="pass" id="pass">
 
         <input type="submit" value="Login">
     </form>
